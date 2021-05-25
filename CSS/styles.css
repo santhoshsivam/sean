@@ -213,8 +213,14 @@
     padding-top: 100px;
 }
 .abt-top img{
+    margin :0px 50px 50px 50px;
     border-radius: 20px;
     box-shadow: 0 30px 30px 0 whitesmoke, 0 6px 20px 0 grey;
+    width:80%;
+    height:80%
+}
+.abt-txt{
+    padding: 10%;
 }
 
 
@@ -339,17 +345,37 @@
 
 
 .home-bc-1 h3,p{
-    text-align: right;
     padding: 0 10px 0 0;
     margin: 0;
 }
 .home-bc-1 h3{
+    
+    text-align: right;
     font-size: 15px;
 }
 .home-bc-1 p{
+    
+    text-align: right;
     padding-top: 15px;
     font-size: 10px;
     margin-bottom: 5px;
 }
 
+
+
+
+
+
+/*ABOUT IMAGE CONTAINER AMD EXPERIENCE*/
+
+.abt-top img{
+    margin :20px;
+    border-radius: 20px;
+    box-shadow: 0 30px 30px 0 whitesmoke, 0 6px 20px 0 grey;
+    width:70%;
+    height:70%
+}
+.abt-top h2 {
+    padding: 20px 0;
+}
 }
