@@ -3,9 +3,6 @@
     margin: 0;
     padding: 0;
 }
-.img-1,.img-2,.img-3,.img-4{
-        display: none;
-    }
 .nav-bar ul{
     list-style-type: none;
     float: left;
@@ -56,7 +53,7 @@
     font-size: 20px;
 }
 .name-con h1{
-    font-size: 80px;
+    font-size: 75px;
     padding-bottom: 10px;
 }
 .big-black{
@@ -259,7 +256,10 @@ animation-name: example;
     border-radius: 20px !important;
     background-color: #bdb2ff;
 }
-
+.alrt-clr-6{
+    border-radius: 20px !important;
+    background-color:lightyellow ;
+}
 .alerts{
     padding: 20px 0;
 }
@@ -269,14 +269,14 @@ animation-name: example;
 }
 
 .alert-1{
-    width: 35%;
+    width: 40%;
     position: relative;
     left: 0%;
     display: block;
 }
 
 .alert-2{
-    width: 35%;
+    width: 40%;
     position: relative;
     left: 13%;
     display: block;
@@ -284,20 +284,25 @@ animation-name: example;
 }
 .alert-3{
     
-    width: 35%;
+    width: 40%;
     position: relative;
     left: 26%;
     
 }
 .alert-4{
-    width: 35%;
+    width: 40%;
     position: relative;
     left: 39%;
     }
 .alert-5{
-    width: 35%;
+    width: 40%;
     position: relative;
     left: 52%;
+    }
+.alert-6{
+    width: 40%;
+    position: relative;
+    left: 65%;
     padding-bottom:100px ;
     }
 .about-hr{
@@ -365,11 +370,10 @@ animation-name: example;
 .wip-same-p video{
     margin: 50px 0 0 100px;
     width: 70%;
-    height: 70%;
+    height: 50%;
     display: block;
     border-radius: 20px;
    }
-
 
 
 
@@ -392,7 +396,7 @@ animation-name: example;
 
 
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 750px) {
 .img-1{
     background-image: linear-gradient(to right top,#f8edeb,yellow);
     width: 100px;
@@ -455,7 +459,7 @@ animation-name: example;
     border-radius: 20px;
     box-shadow: 2px 2px 3px 7px lightgray;
     width:80%;
-    height:80%
+    height:60%
 }
 
 }
@@ -741,6 +745,10 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
     background-color: #bdb2ff;
 }
 
+.alrt-clr-6{
+    border-radius: 20px !important;
+    background-color:lightseagreen ;
+}
 
 
 
