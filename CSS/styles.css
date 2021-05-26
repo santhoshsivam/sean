@@ -381,6 +381,8 @@ animation-name: example;
    /* Contact sheet*/
 
 
+
+
    
 .contact-lin{
     background-image: linear-gradient(to left top,#ffe5d9,#caffbf );
@@ -807,4 +809,16 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
     display: block;
     border-radius: 20px;
    }
+
+
+
+
+/*CONTACT ME */
+.contact-lin{
+   background-image: linear-gradient(to left top,#ffe5d9,#caffbf );
+     padding-bottom: 50px;
+    width: 100%;
+}
+
+
 }
