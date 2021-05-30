@@ -98,19 +98,25 @@ animation-name: example;
 
 /* HOME IMAGE CONTAINER */
 .home-bc-1{
+    width: 70%;;
     margin-top: 100px;
+    margin-left: 13em;
     border-radius: 5%;
     text-align: center;
     background-image: linear-gradient(to left top,#e5b3fe,#ffdf6b);
 }
 .home-bc-2{
+    width: 70%;;
     margin-top: 100px;
+    margin-left: 13em;
     border-radius: 5%;
     text-align: center;
    background-image: linear-gradient(to left top,#e5b3fe,#e2fdff);
 }
 .home-bc-3{
+    width: 70%;;
     margin-top: 100px;
+    margin-left: 13em;
     border-radius: 5%;
     text-align: center;  
    background: linear-gradient(#142c69 -59.06%,rgba(20,44,105,0) 65.9%),#008081;
@@ -118,13 +124,17 @@ animation-name: example;
 }
 
 .home-bc-4{
+    width: 70%;;
     margin-top: 100px;
+    margin-left: 13em;
     border-radius: 5%;
     text-align: center;  
    background-image: linear-gradient(to right top,#e5b3fe,#fefcfb);
 }
 .home-bc-5{
+    width: 70%;;
     margin-top: 100px;
+    margin-left: 13em;
     border-radius: 5%;
     text-align: center;  
    background-image: linear-gradient(to right top,#52b788,#081c15);
@@ -132,15 +142,19 @@ animation-name: example;
 }
 
 .home-bc-6{
+    width: 70%;;
     margin-top: 100px;
+    margin-left: 13em;
     border-radius: 5%;
     text-align: center;
    background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 }
 .home-img-1{
-    margin: 50px;
-    width: 40%;
-    height: 800px;
+    color:black;
+    height: 500px;
+    border-radius: 10px;
+    font-size:50px;
+    text-align: center;
 }   
 .home{
     padding: 0 20%;
@@ -175,37 +189,48 @@ animation-name: example;
     color: black;;
 }
 .home-img-2{
-    margin:70px;
-    width:50%;
+    color:black;
     height: 500px;
     border-radius: 10px;
+    font-size:50px;
+    text-align: center;;
 }
 
 
 .home-img-3{
-    margin:70px;
-    width:70%;
+  color: white;
     height: 500px;
     border-radius: 10px;
+    font-size:50px;
+    text-align: center;;
 }
 .home-img-4{
-    margin:50px;
-    width:70%;
+   color:black;
     height: 500px;
     border-radius: 10px;
-    opacity: 0.95;
+    font-size:50px;
+    text-align: center;
 }
 .home-img-5{
-    margin:50px;
-    width:40%;
+    color: white;
     height: 500px;
     border-radius: 10px;
-    opacity: 0.95;
+    font-size:40px;
+    text-align: center;
+}
+.home-a h3{
+font-size: 60px;
 }
 .footer{
     padding: 200px;
 }
-.same-bot{;
+
+ .h-underline{text-decoration: underline;
+ text-decoration-color: plum;
+ text-decoration-thickness: 5px; 
+ text-underline-offset: 10px;
+ }
+ .same-bot{;
     padding: 3em;
     
 }
@@ -668,54 +693,71 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 }
 
 .home-img-1{
-    margin: 20px;
-    width: 30%;
-    height: 220px;
-}   
-.home-img-2{
-    margin: 20px;
-    width:50%;
+    color:black;
     height: 200px;
     border-radius: 10px;
-}
-.home-img-3{
-    margin: 40px;
-    width:60%;
-    height: 200px;
-    border-radius: 10px;
-}
-.home-img-4{
-    margin: 40px;
-    width:70%;
-    height: 150px;
-    border-radius: 10px;
+    font-size:50px;
+    text-align: center;;
 }
 
-.home-img-5{
-    margin: 40px;
-    width:50%;
-    height: 250px;
+.home-img-2{
+    color:black;
+    height: 200px;
     border-radius: 10px;
+    font-size:50px;
+    text-align: center;;
 }
+
+
+.home-img-3{
+  color: white;
+    height: 200px;
+    border-radius: 10px;
+    font-size:50px;
+    text-align: center;;
+}
+.home-img-4{
+   color:black;
+    height: 200px;
+    border-radius: 10px;
+    font-size:50px;
+    text-align: center;
+}
+.home-img-5{
+    color: white;
+    height: 200px;
+    border-radius: 10px;
+    font-size:40px;
+    text-align: center;
+}
+
 
 
 .home-a h3,p{
-    padding: 0 10px 0 0;
+    padding: 0 40px 0 0;
     margin: 0;
 }
 .home-a h3{
     
     text-align: right;
-    font-size: 15px;
+    font-size: 25px;
 }
 .home-a p{
     
     text-align: right;
-    padding-top: 15px;
-    font-size: 10px;
+    padding-top: 50px;
+    font-size: 15px;
     margin-bottom: 5px;
 }
 
+
+
+ .h-underline{text-decoration: underline;
+ text-decoration-color: plum;
+ text-decoration-thickness: 3px; 
+ text-underline-offset: 10px;
+ }
+ 
 .same-bot {
     padding: 80px 0 40px 0 ;
     font-size: 25px;
@@ -905,7 +947,9 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 .alert-con{
     width: 100%;
 }
-
+.alert-con h4{
+font-size: 20px !important;
+}
 .alrt-con-1{
     border-radius: 20px !important;
     background-color:#ecf39e;
