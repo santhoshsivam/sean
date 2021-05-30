@@ -1,4 +1,8 @@
 @media screen and (min-width: 700px) {
+
+    
+
+
 *{
     margin: 0;
     padding: 0;
@@ -768,6 +772,7 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
      font-size: 40px;
     
 }
+
 
 
 .same-bot p{;
