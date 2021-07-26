@@ -48,7 +48,7 @@
     top:0;
    z-index: 2;}
 
-.name-con{;
+.name-con{
     padding-top: 10em;
     
 }
@@ -234,11 +234,11 @@ font-size: 60px;
  text-decoration-thickness: 5px; 
  text-underline-offset: 10px;
  }
- .same-bot{;
+ .same-bot{
     padding: 3em;
     
 }
-.same-bot-1{;
+.same-bot-1{
     padding: 0 3em 3em 3em;
     
 }
@@ -356,7 +356,7 @@ font-size: 60px;
     padding-left: 0 !important;
 }
 
-.name-con-1{;
+.name-con-1{
     padding-top: 10em;
     
 }
@@ -598,7 +598,7 @@ font-size: 60px;
     font-size: 50px;
     padding-bottom: 10px;
 }
-.big-black{;
+.big-black{
     margin: 30px 30px 30px 20px;
     width: 90%;;
     height: 25em;
@@ -623,10 +623,10 @@ animation-name: example;
 
 @keyframes example {
 0% {transform: translateX(0px);}
-10% {transform: translateX(-70px);}
-20% {transform: translateX(70px);}
-30% {transform: translateX(-70px);}
-40% {transform: translateX(70px);}
+10% {transform: translateX(-55px);}
+20% {transform: translateX(60px);}
+30% {transform: translateX(-60px);}
+40% {transform: translateX(60px);}
 50% {transform:  translateY(-65px);}
 60% {transform:  translateY(65px);}
 70% {transform:  translateY(-65px);}
@@ -738,8 +738,9 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 
 
 .home-a h3,p{
-    padding: 0 40px 0 0;
+    padding: 10px 20px 0 20px;
     margin: 0;
+    font-size: 18px;
 }
 .home-a h3{
     
@@ -768,18 +769,18 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
     
 }
 
-.same-bot h1{;
+.same-bot h1{
      font-size: 40px;
     
 }
 
 
 
-.same-bot p{;
-     font-size: 15px;
+.same-bot p{
+     font-size: 18px;
     padding: 20px 0;
 }
-.same-bot-1{;
+.same-bot-1{
     padding:80px 0 40px 0;
     
 }
@@ -797,7 +798,7 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
     font-size: 25px;
 }
 .abt-top p {
-    font-size: 15px;
+    font-size: 18px;
 }
 .abt-top{
     padding-bottom: 70px;
@@ -875,9 +876,9 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 }
 
 .name-con-1 p{
-    font-size: 8px;
+    font-size:15px;
 }
-.name-con-1{;
+.name-con-1{
     padding-top: 80px;
     
 }
@@ -891,11 +892,11 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
     padding-left: 50px !important;
 }
 .wip-border h3{
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .wip-border p{
-    font-size: 10px;
+    font-size: 18px;
 }
 .wip-same-p{
     width: 100%;
@@ -904,7 +905,7 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 }
 .wip-same-p p{
     padding:5px 0;
-    font-size: 10px;
+    font-size: 17px;
 }
 .wip-same-p img{
     margin: 50px 0 0 20px;
@@ -926,7 +927,7 @@ background-image: linear-gradient(to right bottom,#e5b3fe,#04a777);
 
 
 .wip-same-p a {
-    font-size: 15px;
+    font-size: 18px;
     text-decoration: underline;
     text-decoration-color: plum;
     text-decoration-thickness: 2px;
